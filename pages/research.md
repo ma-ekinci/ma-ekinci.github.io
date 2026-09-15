@@ -29,9 +29,9 @@ We investigate whether aesthetic processing affects multisensory integration in 
 ## From pixels to pleasure: Visual features explain dynamic aesthetic experiences across distinct movie content
 Can we explain aesthetic experiences using combination of visual features? In two experiments, participants continuously rated the aesthetic appeal of either the documentary, “Home” or an animated film, “Loving Vincent”. While watching each film, participants continuously rated the aesthetic appeal of the unfolding scenes using a response slider. We modeled moment-to-moment ratings using image-computable visual features extracted from each movie frame, including spatial structure, color statistics, symmetry and motion energy, derived from targeted feature measures and deep neural network activations.
 
-[Paper: https://www.nature.com/articles/s44271-026-00531-7](https://www.nature.com/articles/s44271-026-00531-7)
+[Paper](https://www.nature.com/articles/s44271-026-00531-7)
 
-[2026 VSS abstract: https://www.visionsciences.org/presentation/?id=3203](https://www.visionsciences.org/presentation/?id=3203)
+[2026 VSS abstract](https://www.visionsciences.org/presentation/?id=3203)
 
 
 ---
@@ -39,7 +39,7 @@ Can we explain aesthetic experiences using combination of visual features? In tw
 ## Shared gaze reflects shared aesthetic experiences
 Do people who explore the scene similarly also evaluate aesthetics in a similar way? In two experiments, participants watched the documentary “Home” while their eye movements were recorded. In Experiment 1, participants continuously rated aesthetic experience throughout the movie, whereas in Experiment 2, they watched the first half without a task and rated aesthetic experience only during the second half. Inter-individual similarity in gaze patterns, assessed using fixation heatmaps across time, predicted similarity in aesthetic appeal judgments in both experiments. Notably, in Experiment 2, gaze similarity during free viewing in the first half of the movie predicted similarity in aesthetic ratings during the second half, indicating that incidental eye movement patterns predict aesthetic experiences. Together, these results show that shared gaze patterns are linked to shared aesthetic experiences under naturalistic, dynamic viewing conditions.
 
-[Preprint: https://www.biorxiv.org/content/10.64898/2026.01.30.702749v1](https://www.biorxiv.org/content/10.64898/2026.01.30.702749v1)
+[Preprint](https://www.biorxiv.org/content/10.64898/2026.01.30.702749v1)
 
 
 
