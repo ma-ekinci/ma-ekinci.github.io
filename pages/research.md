@@ -14,7 +14,7 @@ In this ongoing project, we ask two questions: (1) Does shared viewing change vi
 
 
 ## Shared minds in aesthetic agreement
-Do our brains align temporally when we aesthetically agree or disagree while watching a movie? In two different EEG studies, participants either watched a feature-length movie or a series of movie trailers by giving their moment-to-moment ratings. We first investigated whether, during a feature-length movie, brain alignment follows aesthetic agreement and, if so, at which frequencies this relationship emerges. Second, we asked whether brain alignment while watching movie trailers can predict the IMDb scores of those movies (Yes, we dared to ask that question!).
+Do our brains align temporally when we aesthetically agree or disagree while watching a movie? In two different EEG studies, participants either watched a feature-length movie or a series of movie trailers by giving their moment-to-moment ratings. We first investigated whether, during a feature-length movie, brain alignment follows aesthetic agreement and, if so, at which frequencies this relationship emerges. Second, we asked whether brain alignment while watching movie trailers can predict the IMDb scores of those movies.
 
 
 ---
