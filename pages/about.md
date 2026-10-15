@@ -13,6 +13,9 @@ I am a PhD reseracher in the research group of [Prof. Daniel Kaiser](https://sch
 
 I am interested in questions related to the perception of visual beauty and social contexts. I dive into how predictable our aesthetic appeals are, aiming to use **machine learning** and **deep neural networks** to predict the perception of beauty in the brain under different conditions. I am highly motivated to use naturalistic stimulus like feature-length movies to be close to the real-life complexity. Additionally, I am eager to observe neural networks in the brain responsible for our visual perception, using **fMRI and EEG methods**.
 
+# Outside of work
+
+I enjoy experiencing beauty, especially through cinema. I find the films of Tarkovsky and Kubrick to be great examples of beauty in cinema. 
 
 # Academic Background
 
